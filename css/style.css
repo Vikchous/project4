@@ -911,6 +911,7 @@ input {
     opacity: 40%;
     transition: all 0.2s;
     cursor: pointer;
+    text-color: white;
 }
 
 footer {
