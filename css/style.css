@@ -908,10 +908,10 @@ input {
 }
 
 .feedback__form-button:hover {
-    opacity: 40%;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.1);
     transition: all 0.2s;
     cursor: pointer;
-    color: #fff;
 }
 
 footer {
